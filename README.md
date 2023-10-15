@@ -1,3 +1,3 @@
 # playground
 
-![deploy](https://github.com/hhaze/playground/workflows/deploy/badge.svg?branch=master)
+![Github Actions](https://github.com/hhaze/playground/actions/workflows/nextjs.yml/badge.svg?branch=master)
